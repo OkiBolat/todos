@@ -8,7 +8,7 @@
   flex-direction: column;
   justify-content:space-between;
   margin: 0 auto;
-  max-width: 1900px;
+  min-width: 320px;
   width: 100%;
   height: 100vh;
 }
@@ -21,10 +21,14 @@
   margin:18px 32px ;
 }
 .main {
+  flex-wrap: wrap;
   display: flex;
   align-items: flex-start;
   justify-content:space-around;
   margin-bottom: auto;
+}
+.main-container {
+  padding-left: 15px;
 }
 .main__input {
   box-sizing: border-box;
@@ -50,13 +54,15 @@
   cursor: pointer;
 }
 .main-text {
+  padding: 15px;
   margin-bottom: 0px;
-  font-size:72px;
+  /* font-size:72px; */
   line-height: 82px;
   font-weight: 500;
 }
 
 .main-down-text {
+  padding-left: 15px;
   margin-top: 0;
   margin-bottom: 58px;
 }
