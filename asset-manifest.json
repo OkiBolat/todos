@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/OkiBolat/static/css/main.5b331557.css",
+    "main.css": "/OkiBolat/static/css/main.12048fe7.css",
     "main.js": "/OkiBolat/static/js/main.44d9f89f.js",
     "index.html": "/OkiBolat/index.html",
-    "main.5b331557.css.map": "/OkiBolat/static/css/main.5b331557.css.map",
+    "main.12048fe7.css.map": "/OkiBolat/static/css/main.12048fe7.css.map",
     "main.44d9f89f.js.map": "/OkiBolat/static/js/main.44d9f89f.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b331557.css",
+    "static/css/main.12048fe7.css",
     "static/js/main.44d9f89f.js"
   ]
 }
